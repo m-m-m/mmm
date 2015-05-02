@@ -1,0 +1,21 @@
+[submodule "mmm-util"]
+	path = mmm-util
+	url = https://github.com/m-m-m/util.git
+[submodule "mmm-l10n"]
+	path = mmm-l10n
+	url = https://github.com/m-m-m/l10n.git
+[submodule "mmm-transaction"]
+	path = mmm-transaction
+	url = https://github.com/m-m-m/transaction.git
+[submodule "mmm-parent"]
+	path = mmm-parent
+	url = https://github.com/m-m-m/parent.git
+[submodule "mmm-persistence"]
+	path = mmm-persistence
+	url = https://github.com/m-m-m/persistence.git
+[submodule "mmm-service"]
+	path = mmm-service
+	url = https://github.com/m-m-m/service.git
+[submodule "mmm-client"]
+	path = mmm-client
+	url = https://github.com/m-m-m/client.git
