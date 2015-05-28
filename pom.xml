@@ -9,6 +9,7 @@
     <relativePath>mmm-parent/pom.xml</relativePath>
   </parent>
   <artifactId>mmm-all</artifactId>
+  <version>dev-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>${project.artifactId}</name>
   <description>Infrastructure for User-Interfaces (UI) of client-applications.</description>
