@@ -19,3 +19,6 @@
 [submodule "mmm-client"]
 	path = mmm-client
 	url = https://github.com/m-m-m/client.git
+[submodule "mmm-music"]
+	path = mmm-music
+	url = https://github.com/m-m-m/music.git
