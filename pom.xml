@@ -20,5 +20,6 @@
     <module>mmm-persistence</module>
     <module>mmm-service</module>
     <module>mmm-client</module>
+    <module>mmm-music</module>
   </modules>
 </project>
