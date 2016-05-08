@@ -1,0 +1,17 @@
+= Mature Modular Meta-framework (mmm)
+
+image:https://raw.github.com/m-m-m/mmm/master/src/site/resources/images/logo.png[logo]
+
+== Welcome to the wonderful world of http://m-m-m.sourceforge.net/index.html[mmm]
+
+This repository includes the single repositories using git-modules.
+
+* link:../../util[mmm-util] brings generic utilities that Java programming easier.
+* link:../../l10n[mmm-l10n] brings localization of the project for various languages.
+* link:../../client[mmm-client] brings an abstraction of UI frameworks (experimental).
+* link:../../music[mmm-music] brings infrastructure for music (tone, scale, partiture, etc.).
+* link:../../multimedia[mmm-multimedia] aims to create a multi-media-manager application (early phase).
+* link:../../transaction[mmm-transaction] brings generic transaction support.
+* link:../../persistence[mmm-persistence] brings JPA/persistence support (deprecated).
+
+
