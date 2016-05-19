@@ -6,7 +6,7 @@
     <groupId>net.sf.m-m-m</groupId>
     <artifactId>mmm</artifactId>
     <version>2.0.0</version>
-    <relativePath>mmm-parent/pom.xml</relativePath>
+    <relativePath>parent/pom.xml</relativePath>
   </parent>
   <artifactId>mmm-all</artifactId>
   <version>dev-SNAPSHOT</version>
@@ -14,12 +14,13 @@
   <name>${project.artifactId}</name>
   <description>Infrastructure for User-Interfaces (UI) of client-applications.</description>
   <modules>
-    <module>mmm-l10n</module>
-    <module>mmm-util</module>
-    <module>mmm-transaction</module>
-    <module>mmm-persistence</module>
-    <module>mmm-service</module>
-    <module>mmm-client</module>
-    <module>mmm-music</module>
+    <module>l10n</module>
+    <module>util</module>
+    <module>orient</module>
+    <module>jpa</module>
+    <module>transaction</module>
+    <module>service</module>
+    <module>client</module>
+    <module>music</module>
   </modules>
 </project>
