@@ -25,3 +25,6 @@
 [submodule "music"]
 	path = music
 	url = https://github.com/m-m-m/music.git
+[submodule "search"]
+	path = search
+	url = https://github.com/m-m-m/search.git

@@ -22,5 +22,6 @@
     <module>service</module>
     <module>client</module>
     <module>music</module>
+    <module>search</module>
   </modules>
 </project>
