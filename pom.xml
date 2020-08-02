@@ -34,5 +34,7 @@
     <module>ui-spi</module>
     <module>ui-fx</module>
     <module>ui-tvm</module>
+    <module>ui-test</module>
+    <module>ui-demo</module>
   </modules>
 </project>
