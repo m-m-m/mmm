@@ -3,4 +3,4 @@
 image:https://m-m-m.github.io/logo.svg[logo,width="150",link="https://m-m-m.github.io"]
 
 == mmm
-This repository itself is only used as link:wiki[] for some general documentation aspects of https://m-m-m.github.io[].
+This repository itself is only used as link:../wiki[wiki] for some general documentation aspects of https://m-m-m.github.io[].
