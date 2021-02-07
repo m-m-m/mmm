@@ -1,24 +1,6 @@
 = Mature Modular Meta-framework (mmm)
 
-image:https://raw.github.com/m-m-m/mmm/master/src/site/resources/images/logo.png[logo]
-
-*Welcome to the wonderful world of http://m-m-m.sourceforge.net/index.html[mmm]*
+image:https://m-m-m.github.io/logo.svg[logo,width="150",link="https://m-m-m.github.io"]
 
 == mmm
-This repository includes the single repositories using git-modules and acts as umbrella and overview for the entire project.
-
-* link:../../../util[mmm-util] brings generic utilities that Java programming easier.
-* link:../../../l10n[mmm-l10n] brings localization of the project for various languages.
-* link:../../../jpa[mmm-jpa] brings JPA support for `mmm-util-query`.
-* link:../../../jpa[mmm-orient] brings integration with http://orientdb.com/orientdb/[OrientDB].
-* link:../../../transaction[mmm-transaction] brings generic transaction support.
-* link:../../../music[mmm-music] brings infrastructure for music (tone, scale, partiture, etc.).
-* link:../../../multimedia[mmm-multimedia] aims to create a multi-media-manager application (early phase).
-
-=== dormant or deprecated
-
-* link:../../../client[mmm-client] brings an abstraction of UI frameworks (experimental, needs refactoring, help wanted).
-* link:../../../service[mmm-service] brings an abstraction of RPC service with implementations for different protocols (HTTP-Invoker, burlap, hessioan, GWT-RPC, etc.).
-* link:../../../search[mmm-search] brings full-text search indexing based on lucene.
-* link:../../../persistence[mmm-persistence] brings JPA/persistence support (deprecated).
-
+This repository itself is only used as link:wiki[] for some general documentation aspects of https://m-m-m.github.io[].
