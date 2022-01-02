@@ -4,7 +4,7 @@
   <parent>
     <groupId>io.github.m-m-m</groupId>
     <artifactId>mmm</artifactId>
-    <version>7</version>
+    <version>12</version>
     <relativePath>parent/pom.xml</relativePath>
   </parent>
   <artifactId>mmm-all</artifactId>
@@ -30,6 +30,7 @@
     <module>property</module>
     <module>bean</module>
     <module>entity</module>
+    <module>dbm</module>
     <module>ui-api</module>
     <module>ui-spi</module>
     <module>ui-fx</module>
