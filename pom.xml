@@ -8,13 +8,12 @@
     <relativePath>parent/pom.xml</relativePath>
   </parent>
   <artifactId>mmm-all</artifactId>
-  <version>${revision}${changelist}</version>
+  <version>${revision}</version>
   <packaging>pom</packaging>
   <name>${project.artifactId}</name>
   <description>Reactor project to create aggregated JavaDoc.</description>
   <properties>
-    <revision>1.0.0</revision>
-    <changelist>-SNAPSHOT</changelist>
+    <revision>1.0.0-SNAPSHOT</revision>
   </properties>
   <modules>
     <module>base</module>
