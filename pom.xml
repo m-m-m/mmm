@@ -16,10 +16,12 @@
     <revision>1.0.0-SNAPSHOT</revision>
   </properties>
   <modules>
+    <module>l10n</module>
     <module>base</module>
     <module>binary</module>
     <module>crypto</module>
     <module>scanner</module>
+    <module>tvm</module>
     <module>marshall</module>
     <module>event</module>
     <module>cli</module>
@@ -29,6 +31,7 @@
     <module>property</module>
     <module>bean</module>
     <module>entity</module>
+    <module>rpc</module>
     <module>dbm</module>
     <module>ui-api</module>
     <module>ui-spi</module>
