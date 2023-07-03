@@ -31,13 +31,16 @@
     <module>property</module>
     <module>bean</module>
     <module>entity</module>
-    <module>rpc</module>
-    <module>dbm</module>
     <module>ui-api</module>
     <module>ui-spi</module>
     <module>ui-fx</module>
     <module>ui-tvm</module>
     <module>ui-test</module>
+    <module>code</module>
+    <!--
     <module>ui-demo</module>
+    <module>rpc</module>
+    <module>dbm</module>
+    -->
   </modules>
 </project>
