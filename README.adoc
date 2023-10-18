@@ -4,3 +4,26 @@ image:https://m-m-m.github.io/logo.svg[logo,width="150",link="https://m-m-m.gith
 
 == mmm
 This repository itself is only used as link:../../wiki[wiki] for some general documentation aspects of https://m-m-m.github.io[].
+Also this project contains an aggregator `pom.xml` for the entire project.
+In your project workspace folder clone all the repositories as subfolders side-by-side:
+
+* mmm
+* base
+* ...
+* value
+
+then simply create a symbolic link to this POM in that project workspace folder:
+```
+ln -s mmm/pom.xml pom.xml
+```
+
+Now, you can build the entire project with all its sub-projects from individual modules:
+```
+mvn clean install
+```
+
+== release
+```
+mvn -Pdeploy -Drevision=x.y.z clean deploy
+./tagger.sh x.y.z
+```
