@@ -1,4 +1,4 @@
-= Mature Modular Meta-framework (mmm)
+= Marvelous-Micro-Modules (mmm)
 
 image:https://m-m-m.github.io/logo.svg[logo,width="150",link="https://m-m-m.github.io"]
 
