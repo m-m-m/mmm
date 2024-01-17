@@ -31,6 +31,7 @@
     <module>property</module>
     <module>bean</module>
     <module>entity</module>
+    <module>orm</module>
     <module>ui-api</module>
     <module>ui-spi</module>
     <module>ui-fx</module>
