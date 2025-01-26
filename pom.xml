@@ -4,7 +4,7 @@
   <parent>
     <groupId>io.github.m-m-m</groupId>
     <artifactId>mmm</artifactId>
-    <version>22</version>
+    <version>23</version>
     <relativePath>parent/pom.xml</relativePath>
   </parent>
   <artifactId>mmm-all</artifactId>
@@ -26,12 +26,14 @@
     <module>event</module>
     <module>cli</module>
     <module>nls</module>
+    <module>text</module>
     <module>value</module>
     <module>validation</module>
     <module>property</module>
     <module>bean</module>
     <module>entity</module>
     <module>orm</module>
+    <module>rpc</module>
     <module>ui-api</module>
     <module>ui-spi</module>
     <module>ui-fx</module>
@@ -40,8 +42,6 @@
     <module>code</module>
     <!--
     <module>ui-demo</module>
-    <module>rpc</module>
-    <module>dbm</module>
     -->
   </modules>
 </project>

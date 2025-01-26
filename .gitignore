@@ -1,4 +1,8 @@
 .*
+!.github
+!.gitignore
+!.gitattributes
+!.mvn
 *.bak
 *.log
 *.diff
@@ -6,5 +10,4 @@
 *.iml
 target
 eclipse-target
-gwt-unitCache
 war
